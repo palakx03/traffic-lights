@@ -1,0 +1,111 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    
+
+} 
+.container{
+    background-color: lightgray;
+    border-radius: 25px;
+    height:450px;
+    width:300px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    margin-top:400px;
+    
+   
+    
+   
+   
+}
+
+.lights{
+    border-radius: 60px;
+    border: 5px solid white;
+    height:100px;
+    width:100px;
+    background-color:black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:15px;
+    padding:2px;
+
+    
+    
+}
+.buttons{
+    margin-top: 400px;
+    margin-left:80px;
+   
+   
+}
+.Red{
+   border: 2px solid black;
+   border-radius: 10px;
+   background-color:Red;
+   width:150px;
+   height:70px;
+   font-size:200%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin:15px;
+  
+}
+.Yellow{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:Yellow;
+    width:150px;
+    height:70px;
+    font-size:200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:15px;
+   
+ }
+ .Green{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: Green;
+    width:150px;
+    height:70px;
+    font-size:200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:15px;
+   
+ }
+ .All{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, red , yellow, green);;
+    width:150px;
+    height:70px;
+    font-size:200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:15px;
+   
+ }
+ .Alternative{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    width:150px;
+    height:70px;
+    font-size:200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:15px;
+   
+ }
